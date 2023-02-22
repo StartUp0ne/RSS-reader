@@ -1,0 +1,26 @@
+{
+  "description": [
+    "https://securelist.com/category/apt-reports/feed/",
+    "https://www.microsoft.com/en-us/security/blog/feed/",
+    "https://blog.360totalsecurity.com/en/feed/",
+    "https://www.anomali.com/site/blog-rss",
+    "https://www.intezer.com/feed/",
+    "https://decoded.avast.io/feed/",
+    "https://research.checkpoint.com/feed/",
+    "https://securelist.com/feed/",
+    "https://blog.google/threat-analysis-group/rss/"
+  ],
+  "content": [
+    "https://blog.netlab.360.com/rss/",
+    "https://www.volexity.com/blog/feed/",
+    "https://blog.lumen.com/feed/",
+    "https://www.malwarebytes.com/blog/feed/index.xml",
+    "https://www.sentinelone.com/labs/feed/",
+    "https://thedfirreport.com/feed/",
+    "https://www.secureblink.com/rss-feeds/threat-research",
+    "https://asec.ahnlab.com/en/feed/"
+  ]
+}
+
+
+
